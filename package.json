@@ -1,0 +1,17 @@
+{
+  "name": "www.zhizhu.video",
+  "version": "1.0.0",
+  "description": "my is web",
+  "main": "index.js",
+  "repository": "https://github.com/zhizhu-video/www.git",
+  "author": "supbose <yshxw@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^0.16.1"
+  }
+}
